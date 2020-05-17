@@ -1,0 +1,11 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.element-13 {
+    grid-column: 1/7;
+}
+.element-14 {
+    grid-column: 7/13;
+}
